@@ -1,0 +1,6 @@
+{
+  "name": "Briar Clone",
+  "description": "Secure, serverless peer-to-peer decentralized messaging clone of the Briar project backing RSA hybrid encryption, local network service discovery syncing, private groups, mesh forums, and signed peer blog syncs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
